@@ -96,3 +96,7 @@ Select **Yes**
 * Chose the ZIP file that you just downloaded
 * Select *Ok* at the bottom right
 * After loading you can select launch on the right to play
+
+## Done!!
+![final](https://i.postimg.cc/fLWM7Y7q/Screenshot-2023-01-11-024226.png)
+### Verify that the info in the circles are the same, with substituted accounts, of course
