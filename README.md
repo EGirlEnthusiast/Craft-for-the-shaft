@@ -1,7 +1,7 @@
 # [Craft For The Shaft Modpack Tutorial]
 
-> It looks **worse** than it is
- It'll take **5** minutes to complete
+It looks **worse** than it is
+It'll take **5** minutes to complete
 
 ## 🚩 Table of Contents
 
