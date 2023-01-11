@@ -1,4 +1,4 @@
-# [Craft For The Shaft Modpack Tutorial]
+# Craft For The Shaft Modpack Tutorial
 
 It looks **worse** than it is
 It'll take **5** minutes to complete
@@ -52,7 +52,7 @@ Then...
 * **Next** : Click *Next >*
 * **Next** : Click *Next*
 * **Close** : Click *Close*
-## 🐾🤖 Step 3
+## 🤖 Step 3
 
 ### Open that minimized window - You should see something like this
 ![example3](https://i.ibb.co/fD2KJyD/Screenshot-2023-01-10-220842.png)
@@ -82,4 +82,15 @@ Select **Yes**
 |Don't know | Check in task manager or start from the top and work down until it works |
 * **Change the java path** : Select *Auto-detect...*
 ![example6](https://i.ibb.co/Y3YdtYv/Screenshot-2023-01-10-223847.png)
-### It does not matter how many options there are, select **17.0.5**
+#### It does not matter how many options there are, select **17.0.5**
+
+## 🪄 Step 4
+#### Download the ZIP to a place youll easily access it
+| Link |
+| --- |
+| [Download the Modpack here](google.com) |
+* **Add Instance** : From the main screen
+* **Import Zip** : On the left hand side
+![example7](https://i.postimg.cc/90gWxzXP/Screenshot-2023-01-11-021059.png)
+#### Select Browse
+* Chose the ZIP file that you just downloaded
