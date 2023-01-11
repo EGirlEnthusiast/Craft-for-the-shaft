@@ -72,7 +72,7 @@ Select **Yes**
 #### You should now see your account name in the list
 * Right click your account in the list and chose **Set Default**
 
-### One the left there should be a menu of many options including the accounts menu (which we are in)
+### On the left there should be a menu of many options including the accounts menu (which we are in)
 * Change to the Java Menu
  According to your PC's Specs, select one of the following
  | RAM Amount | Value to Enter |
