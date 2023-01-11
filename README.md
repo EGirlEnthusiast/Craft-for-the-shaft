@@ -65,7 +65,8 @@ Then...
 * Select Next
 * Enter your Microsoft Account details and sign in
 ![example5](https://i.postimg.cc/L8p7D3K3/Screenshot-2023-01-10-221738.png)
-> Select **Yes** 
+
+Select **Yes** 
 
 #### You should now see your account name in the list
 * Right click your account in the list and chose **Set Default**
