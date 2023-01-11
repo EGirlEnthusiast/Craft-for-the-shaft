@@ -83,7 +83,7 @@ Select **Yes**
 | 16 Gigabytes | 8192 MiB |
 |8 Gigabytes | 5120 MiB |
 |Don't know | Check in task manager or start from the top and work down until it works |
-* **Change the java path** : Select *Auto-detect...*
+#### **Change the java path** : Select *Auto-detect...*
 ![example6](https://i.ibb.co/Y3YdtYv/Screenshot-2023-01-10-223847.png)
 #### It does not matter how many options there are, select **17.0.5**
 
