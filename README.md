@@ -44,7 +44,7 @@ Then...
 ## 🌏 Step 2
 
 Scroll down in the second website and select the following options
-![Example of what you should see](https://i.ibb.co/f9XKmfh/Screenshot-2023-01-10-222546.png)
+![Example of what you should see](https://i.postimg.cc/RFDQY43z/Screenshot-2023-01-10-222546.png)
 **When the download is completed, run the exe**
 
 
