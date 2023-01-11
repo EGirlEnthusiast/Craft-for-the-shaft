@@ -10,7 +10,7 @@ It'll take **5** minutes to complete
 - [Step 2](#-step-2)
 - [Step 3](#-step-3)
 - [Step 4](#-step-4)
-- [Launching / Verifying](#-all-done)
+- [All Done](#-all-done)
 
 
 
