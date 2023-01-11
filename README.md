@@ -101,3 +101,4 @@ Select **Yes**
 ## 🥳 All Done
 ![final](https://i.postimg.cc/fLWM7Y7q/Screenshot-2023-01-11-024226.png)
 ### Verify that the info in the circles are the same, with substituted accounts, of course
+You will need to launch minecraft through here every time you go to play on the server. You can explore the options to create shortcuts if you dont want to open Prism every time
