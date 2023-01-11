@@ -8,13 +8,9 @@
 - [What you need to have ready](#-what-you-need-to-have-ready)
 - [Step 1](#-step-1)
 - [Step 2](#-step-2)
-- [Step3](#-step-3)
-- [Browser Support](#-browser-support)
-- [Pull Request Steps](#-pull-request-steps)
-- [Contributing](#-contributing)
-- [TOAST UI Family](#-toast-ui-family)
-- [Used By](#-used-by)
-- [License](#-license)
+- [Step 3](#-step-3)
+- [Step 4](#-step-4)
+
 
 
 ## 📦 What You Need To Have Ready
