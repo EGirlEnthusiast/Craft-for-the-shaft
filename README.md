@@ -1,13 +1,14 @@
 # [Craft For The Shaft Modpack Tutorial]
 
-> Easy and quick tutorial
+> It looks **worse** than it is
+ It'll take **5** minutes to complete
 
 ## 🚩 Table of Contents
 
 - [What you need to have ready](#-what-you-need-to-have-ready)
 - [Step 1](#-step-1)
 - [Step 2](#-step-2)
-- [Examples](#-examples)
+- [Step3](#-step-3)
 - [Browser Support](#-browser-support)
 - [Pull Request Steps](#-pull-request-steps)
 - [Contributing](#-contributing)
@@ -42,24 +43,22 @@ Then...
 * **Install** : Click *Install*
 
 Once the install is complete, close the window, and it is safe to delete the exe file you downloaded (if you want to)
+## You can select finish and skip step 2, and go to [Step3](#-step-3)
 
 ## 🤖 Step 2
 
 * **Press the Windows key** : How you search for files, and type: prism
 ![Example of what you should see](https://i.ibb.co/YjQ89hj/Screenshot-2023-01-10-220101.png)
 * **Open** : Open the program
-* **Install** : Click *Install*
-## 🐾 Examples
+## 🐾 Step 3
 
-* [Basic](https://nhn.github.io/tui.editor/latest/tutorial-example01-editor-basic)
-* [Viewer](https://nhn.github.io/tui.editor/latest/tutorial-example04-viewer)
-* [Using All Plugins](https://nhn.github.io/tui.editor/latest/tutorial-example12-editor-with-all-plugins)
-* [Creating the User's Plugin](https://nhn.github.io/tui.editor/latest/tutorial-example13-creating-plugin)
-* [Customizing the Toobar Buttons](https://nhn.github.io/tui.editor/latest/tutorial-example15-customizing-toolbar-buttons)
-* [Internationalization (i18n)](https://nhn.github.io/tui.editor/latest/tutorial-example16-i18n)
+## You should see something like this
+![example3](https://i.ibb.co/fD2KJyD/Screenshot-2023-01-10-220842.png)
 
-Here are more [examples](https://nhn.github.io/tui.editor/latest/tutorial-example01-editor-basic) and play with TOAST UI Editor!
-
+* Select **Accounts** in the top right corner and select **Manage Accounts**
+* On the right chose your account type. If you don't know select **Add Microsoft**
+![example4](https://i.ibb.co/84dGMxh/Screenshot-2023-01-10-221230.png) 
+When this window opens select Open page and copy code
 
 ## 🌏 Browser Support
 
