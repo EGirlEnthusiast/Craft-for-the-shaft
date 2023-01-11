@@ -86,10 +86,8 @@ Select **Yes**
 #### It does not matter how many options there are, select **17.0.5**
 
 ## 🪄 Step 4
-#### Download the ZIP to a place youll easily access it
-| Link |
-| --- |
-| [Download the Modpack here](https://www.mediafire.com/file/7aztcypxw9v407b/Craft_For_The_Shaft_Modpack-0.3.zip/file) |
+#### You'll need the modpack ZIP at this step
+
 * **Add Instance** : From the main screen
 * **Import Zip** : On the left hand side
 ![example7](https://i.postimg.cc/90gWxzXP/Screenshot-2023-01-11-021059.png)
