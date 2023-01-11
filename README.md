@@ -10,7 +10,7 @@ It'll take **5** minutes to complete
 - [Step 2](#-step-2)
 - [Step 3](#-step-3)
 - [Step 4](#-step-4)
-- [All Done](#-all-done)
+- [Launching / Verifying](#-all-done)
 
 
 
@@ -98,6 +98,6 @@ Select **Yes**
 * Select *Ok* at the bottom right
 * After loading you can select launch on the right to play
 
-## All Done!!
+## 🥳 All Done
 ![final](https://i.postimg.cc/fLWM7Y7q/Screenshot-2023-01-11-024226.png)
 ### Verify that the info in the circles are the same, with substituted accounts, of course
