@@ -66,7 +66,7 @@ Then...
 * Then put in the code shown into the webiste that gets opened. My example code is **NTJW7SGS**
 * Select Next
 * Enter your Microsoft Account details and sign in
-![example5](https://i.postimg.cc/L8p7D3K3/Screenshot-2023-01-10-221738.png)
+#### ![example5](https://i.postimg.cc/L8p7D3K3/Screenshot-2023-01-10-221738.png)
 
 Select **Yes** 
 
