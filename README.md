@@ -94,3 +94,5 @@ Select **Yes**
 ![example7](https://i.postimg.cc/90gWxzXP/Screenshot-2023-01-11-021059.png)
 #### Select Browse
 * Chose the ZIP file that you just downloaded
+* Select *Ok* at the bottom right
+* After loading you can select launch on the right to play
