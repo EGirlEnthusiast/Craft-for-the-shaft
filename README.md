@@ -46,7 +46,8 @@ Then...
 ## 🌏 Step 2
 
 Scroll down in the second website and select the following options
-![Example of what you should see](https://i.postimg.cc/RFDQY43z/Screenshot-2023-01-10-222546.png)
+**Be sure to select all three items circled in red, from the top down**
+# ![Example of what you should see](https://i.postimg.cc/RFDQY43z/Screenshot-2023-01-10-222546.png)
 **When the download is completed, run the exe**
 
 
@@ -84,7 +85,6 @@ Select **Yes**
 |8 Gigabytes | 5120 MiB |
 |Don't know | Check in task manager or start from the top and work down until it works |
 #### **Change the java path** : Select *Auto-detect...*
-**Be sure to select all three items circled in red, from the top down**
 # ![example6](https://i.ibb.co/Y3YdtYv/Screenshot-2023-01-10-223847.png)
 #### It does not matter how many options there are, select **17.0.5**
 
