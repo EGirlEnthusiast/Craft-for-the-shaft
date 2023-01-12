@@ -104,7 +104,7 @@ Select **Yes**
 ### Verify that the info in the circles are the same, with substituted accounts, of course
 You will need to launch minecraft through here every time you go to play on the server. You can explore the options to create shortcuts if you dont want to open Prism every time
 * Once it starts you should be safe to configure your controls, but Ive already set the graphics settings to get the best performance. If the game runs poorly then lower your render distance.
-* You can mess with the mod settings but Ive configured them to match the server, so not all options will have an effect.
+* You can mess with the mod settings but Ive configured them to match the server, so not all options will have an effect. They also are configured for performance, so i wouldnt mess with them unless you know what youre doing
 * Its easiest to not mess with mod settings, and only change graphics and control settings
 
 
