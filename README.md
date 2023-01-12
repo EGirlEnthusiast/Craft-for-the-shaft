@@ -106,3 +106,6 @@ You will need to launch minecraft through here every time you go to play on the 
 * Once it starts you should be safe to configure your controls, but Ive already set the graphics settings to get the best performance. If the game runs poorly then lower your render distance.
 * You can mess with the mod settings but Ive configured them to match the server, so not all options will have an effect.
 * Its easiest to not mess with mod settings, and only change graphics and control settings
+
+
+## [Go here for more specific info on how to use the mods, and what is possible on the server! (Does not cover every mod, just the big ones)](https://github.com/EGirlEnthusiast/next-steps)
