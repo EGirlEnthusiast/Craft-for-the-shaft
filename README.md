@@ -23,7 +23,7 @@ It'll take **5** minutes to complete
 | Your Minecraft Login details | Mojang Accounts will work, but i will be showing for migrated (Microsoft) accounts |
 | Prism Minecraft Launcher | [Right click => open link in new tab](https://prismlauncher.org/download/) |
 | Java Dev Kit | [Java SE Dev Kit 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) |
-| The modpack | [Link](https://www.mediafire.com/file/j1b166p9wkzmp44/Craft_For_The_Shaft_Modpack-0.4.zip/file) |
+| The modpack | [Link](https://www.mediafire.com/file/urrravi70kwnbpd/Craft_For_The_Shaft_Modpack-0.5.zip/file) |
 
 
 
